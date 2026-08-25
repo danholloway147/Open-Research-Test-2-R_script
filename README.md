@@ -13,7 +13,7 @@ The script expects the following two files in the working directory:
 - `Species_Data.csv` – quadrat-level species abundance data (`plot_id`, `transect`, `quadrat`, plus 26 species columns)
 - `Env_Factors.csv` – quadrat-level environmental data (`plot_id`, `transect`, `distance_from_river_m`, `soil_moisture_mg_g`, `soil_ph`, `canopy_cover_pct`)
 
-See the dataset README for full column definitions.
+See https://github.com/danholloway147/Open-Research-test- for datasets and the README for full column definitions.
 
 ## Required R Packages
 ```r
