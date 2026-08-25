@@ -1,3 +1,34 @@
-If using this data-set please use the following citation:
-
-Holloway, D.A. (2026) R-script for Halstock Wood SSSI Habitat Survey: Understorey Plant Community Composition Along a Riparian Distance Gradient [Software and dataset]. Available at: https://github.com/danholloway147/Open-Research-Test-2-R_script . (Accessed: [date of access]).
+message: "If you use this software or dataset, please cite it as below."
+title: "Halstock Wood SSSI Habitat Survey: Understorey Plant Community Composition Along a Riparian Distance Gradient"
+authors:
+  - family-names: Holloway
+    given-names: Dan A.
+    email: Dan2.holloway@live.uwe.ac.uk
+date-released: 2026-08-10
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/danholloway147/Open-Research-Test-2-R_script"
+keywords:
+  - vegetation survey
+  - NMDS
+  - PERMANOVA
+  - plant community ecology
+  - riparian ecology
+  - Halstock Wood SSSI
+  - R
+  - vegan
+abstract: >
+  Data and R analysis script exploring understorey plant community composition
+  along a riparian distance gradient in Halstock Wood SSSI. Includes species
+  abundance and environmental (soil moisture, soil pH, canopy cover, distance
+  from river) survey data, plus 3D NMDS ordination, envfit, PERMANOVA, and
+  betadisper analyses.
+preferred-citation:
+  type: software
+  title: "Halstock Wood SSSI Habitat Survey: Understorey Plant Community Composition Along a Riparian Distance Gradient"
+  authors:
+    - family-names: Holloway
+      given-names: Dan A.
+  year: 2026
+  url: "https://github.com/danholloway147/Open-Research-Test-2-R_script"
+  
